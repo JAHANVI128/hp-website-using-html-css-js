@@ -1,0 +1,82 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer{
+    background-color: rgb(19, 96, 32);
+    text-align: center;
+    color: white;
+}
+
+.text-color{
+    color: rgb(81,135,78);
+}
+
+.text-center{
+    color: rgb(81,135,78);
+    text-align: center;
+}
+
+.about{
+    background-color: rgb(75,129,77);
+    text-align: center;
+    color: white;
+}
+
+.navbar{
+    background-color: rgb(74,133,75);
+    color: white;
+    /* display: inline; */
+}
+
+.choose{
+    color: rgb(73,134,78);
+    text-align: center;
+    background-color: rgb(235,231,219);
+}
+
+.product{
+    color: rgb(93,125,97);
+    text-align: center;
+    background-color: white;
+}
+
+.img{
+    margin-left: 120px;
+}
+
+.btn{
+    background-color:white;
+    color: rgb(74,133,75);
+    display: inline-block;
+    top: 25px;
+    right:170px;
+    position: absolute;
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: medium;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    border:none;
+}
+
+.btn:hover{
+    border: none;
+    /* color: white; */
+    /* background: transparent; */
+    box-shadow: 0px 0px 20px white;
+   transition:400ms ease all;
+}
+
+body > div > div{
+    margin-top: 30px;
+    margin-left: 315px;
+    font-weight: bold;
+    font-size: 53px;
+}
+
+id{
+    color: rgb(253,188,22);
+    font-size: 100px;
+}
