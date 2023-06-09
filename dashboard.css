@@ -1,4 +1,4 @@
-/* .text-color{
+.text-color{
     color: rgb(81,135,78);
 }
 
@@ -17,7 +17,7 @@
     color: rgb(73,134,78);
     text-align: center;
     background-color: rgb(235,231,219);
-} */
+}
 
 *{
     padding: 0;
